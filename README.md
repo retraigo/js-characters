@@ -9,6 +9,11 @@ TypeScript will throw an error if you attempt to use these.
 
 PRs for more characters are welcome.
 
+### Whitespace
+```ts
+([]+{})[+!+[]+!+[]+!+[]+!+[]+!+[]+!+[]+!+[]]
+```
+
 ### [
 ```ts
 ([]+{})[+[]]
